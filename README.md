@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard analyzing **502,888 UPI transactions**, built with PivotTables, PivotCharts, and slicers to explore transaction volume, revenue, fraud signals, and user behavior across India.
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](https://github.com/arifkhan868/PhonePe-UPI-Transaction-Dashboard/blob/main/Dashboard.PNG)
 
 ## 🔍 Overview
 
